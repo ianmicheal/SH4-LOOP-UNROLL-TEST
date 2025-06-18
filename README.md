@@ -40,7 +40,11 @@ The benchmark evaluates various approaches to converting pixels from BGR555 (use
 - Register scheduling optimization
 
 ## 🛠️ Building
+🙏 Acknowledgments
 
+KallistiOS development team for the excellent Dreamcast SDK
+The Dreamcast homebrew community for keeping the dream alive
+SEGA for creating this amazing console
 ### Prerequisites
 - [KallistiOS (KOS)](http://gamedev.allusion.net/softprj/kos/) development environment
 - Dreamcast toolchain (sh-elf-gcc)
