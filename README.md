@@ -16,7 +16,7 @@ A high-performance benchmark suite for BGR555 to RGB565 color conversion optimiz
 - **17 Different Optimization Techniques** - From basic 16-bit operations to advanced cache-optimized implementations
 - **Real-world Performance Metrics** - Shows MB/s throughput and estimated FPS for 640x480 displays
 - **SH4-Specific Optimizations** - Leverages Dreamcast hardware features like prefetch instructions
-- **Clear Recommendations** - Tells you exactly which approach to use in plain English
+- **Clear Recommendations** - Tells you exactly which approach to use 
 - **Automatic Verification** - Ensures all conversions are pixel-perfect
 
 ## 📊 What It Tests
